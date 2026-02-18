@@ -122,7 +122,7 @@
 
 ## 🧹 Data Cleaning & Preparation
 
-> 📄 See the full detailed process and Python script in [`cleaned dataset/cleaned.md`](cleaned%20dataset/cleaned.md)
+> 📄 See the full detailed process and Python script in [`Cleaned/cleaned.md`](Cleaned/cleaned.md)
 
 | Step | Action |
 |------|--------|
@@ -488,7 +488,7 @@ Interactive filters allow dynamic analysis by:
 | **Upload Year** | Integer | Numerical (Discrete) | Year when institute record was uploaded | 2020 | Few |
 | **The Institute Added In Survey Year** | Integer | Numerical (Discrete) | Year when institute was added to the survey database | 2019 | Few |
 
-> 📄 For the full data cleaning process and Python sampling script, see [`cleaned dataset/cleaned.md`](cleaned%20dataset/cleaned.md)
+> 📄 For the full data cleaning process and Python sampling script, see [`Cleaned/cleaned.md`](Cleaned/cleaned.md)
 
 ---
 

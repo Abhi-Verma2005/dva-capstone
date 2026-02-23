@@ -450,12 +450,12 @@ Interactive filters allow dynamic analysis by:
 
 | Team Member | Dataset & Sourcing | Cleaning | KPI & Analysis | Dashboard | Report Writing | PPT | Overall Role |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Gauri Mehrotra** | Primary | Review | Secondary | Final Review | Review | Final Polish | **Team Lead** |
-| **Milind Bansal** | Secondary | Primary | Primary | Analysis Support | Insights Section | Support | **Data Insights Lead** |
-| **Sambhav Kumar** | Support | Secondary | Support | Primary | Descriptions | Support | **Dashboard Architect** |
-| **Abhishek Verma** | Support | Support | Support | Secondary | Support | Primary | **Presentation Designer** |
-| **Abhishek Kumar Patel** | Support | Support | Support | Support | Primary | Support | **Report Manager** |
-| **Himank Kaushik** | Support | Support | Support | Support | Support | Primary | **Presentation Designer** |
+| **Gauri Mehrotra** | ✓ | — | — | — | ✓ | ✓ | **Team Lead** |
+| **Milind Bansal** | — | ✓ | ✓ | ✓ | — | — | **Data Insights Lead** |
+| **Sambhav Kumar** | — | — | ✓ | ✓ | — | — | **Dashboard Architect** |
+| **Abhishek Verma** | — | — | — | — | ✓ | ✓ | **Presentation Designer** |
+| **Abhishek Kumar Patel** | ✓ | — | — | — | — | ✓ | **Presentation Reviewer** |
+| **Himank Kaushik** | — | ✓ | — | — | — | — | **Data Cleaning Help** |
 
 > **Declaration:** We confirm that the above contribution details are accurate and verifiable through version history and submitted artifacts.
 
